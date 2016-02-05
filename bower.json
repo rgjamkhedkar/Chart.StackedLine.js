@@ -1,0 +1,26 @@
+{
+  "name": "Chart.StackedLine.js",
+  "main": "Chart.StackedLine.js",
+  "homepage": "https://github.com/rgjamkhedkar/Chart.StackedLine.js",
+  "authors": [
+    "Rohan Jamkhedkar <rohanj@workout.cash>"
+  ],
+  "description": "Chart.js Stacked Line Chart",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Chart.js",
+    "stacked",
+    "line",
+    "chart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
